@@ -20,4 +20,8 @@
 3. Visual interpretation with normal approximation
 4. One tailed vs Two tailed
 5. Tests concerning sample mean
+6. T test 
+7. One-Sample T-Test
+8. Two-Sample T-Test
+
    
