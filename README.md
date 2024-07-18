@@ -24,4 +24,18 @@
 7. One-Sample T-Test
 8. Two-Sample T-Test
 
-   
+### **3. Decision Tree -**
+**Part 1 -**
+   1. Decision Tree
+   2. Information Gain
+   3. Reasons for overfitting
+   4. Avoiding overfitting
+   5. Evaluating which subtrees to prune
+   6. Bias,Variance and Error
+   7. Issues with decision trees
+      
+**Part 2 -**
+   1. Decision Path
+   2. Values of Decision tree
+   3. PCA - Principal Component Analysis
+   4. Incremental PCA
