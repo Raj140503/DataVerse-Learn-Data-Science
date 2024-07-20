@@ -2,7 +2,6 @@
 
 ### **1. Clustering -**
 
-**Contents -**
 1. K-Means Algorithm 
 2. Hierachical Clustering
 3. Measuring the distance of two clusters
@@ -39,3 +38,18 @@
    2. Values of Decision tree
    3. PCA - Principal Component Analysis
    4. Incremental PCA
+
+### **4. Dynamic Programming -**
+1. Dynamic Programming
+2. Difference between Dynamic programming and Divide and conquer Technique
+3. Elements of Dynamic Programming
+4. Components of Dynamic Programming
+5. Application
+6. Characterisitc of Longest Common Sequence
+7. 0/1 Knapsack Problem: Dynamic Programming Approach:
+8. Matrix Chain Multiplication
+9. DAA - Travelling Salesman Problem.
+10. Shortest Path Problem
+11. Dijkstra’s Algorithm
+12. Backtracking
+13. 4 X 4 Queen Problem
