@@ -57,3 +57,13 @@
 ### **5. Normalization -**
 1. L1 Normalization
 2. L2 Normalization
+
+### **6. Exception Handling -**
+1. Exception
+2. The raise statement 
+3. The assert Statement.
+4. Handling Exception
+5. Process of Exception Handling
+6. Catching Exception
+7. Finally Clause
+
