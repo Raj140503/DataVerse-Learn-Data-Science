@@ -53,3 +53,7 @@
 11. Dijkstra’s Algorithm
 12. Backtracking
 13. 4 X 4 Queen Problem
+
+### **5. Normalization -**
+1. L1 Normalization
+2. L2 Normalization
