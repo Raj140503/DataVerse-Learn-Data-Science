@@ -67,3 +67,11 @@
 6. Catching Exception
 7. Finally Clause
 
+### **7. Basic of Image Processing -**
+1. Reading Image Files
+2. Writing/Saving Image Files
+3. Accesing and Manipulating Files
+
+### **8. Video Capture -**
+1. Launching the Camera
+2. Changing Video Priorities
