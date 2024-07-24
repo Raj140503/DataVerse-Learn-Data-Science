@@ -75,3 +75,12 @@
 ### **8. Video Capture -**
 1. Launching the Camera
 2. Changing Video Priorities
+
+### **9. Keras Library -**
+1. Definitions
+2. Keras Dataset
+3. Sequence Padding
+4. One Hot Coding
+5. Sequence Model
+6. Binary Classification
+7. Multi-Class Classification
