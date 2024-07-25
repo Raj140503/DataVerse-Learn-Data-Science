@@ -76,11 +76,15 @@
 1. Launching the Camera
 2. Changing Video Priorities
 
-### **9. Keras Library -**
+### **9. Introduction to Keras and Tensorflow -**
 1. Definitions
 2. Keras Dataset
 3. Sequence Padding
 4. One Hot Coding
-5. Sequence Model
-6. Binary Classification
-7. Multi-Class Classification
+5. Sequencial Model
+6. Specifying the input shape
+7. Binary Classification
+8. Multi-Class Classification
+9. Tensorflow
+10. NVIDIA CUDA Toolkit
+
