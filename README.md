@@ -88,3 +88,12 @@
 9. Tensorflow
 10. NVIDIA CUDA Toolkit
 
+### ** 10.SQL -**
+1. Inner Join
+2. Left Outer Join
+3. Right Outer Join
+4. Full Outer Join
+5. Left Join Excluding Inner Join
+6. Right Join Excluding Inner Join
+7. Full Outer Excluding Inner Join
+8. Cross Join
