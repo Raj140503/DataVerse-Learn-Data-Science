@@ -88,7 +88,7 @@
 9. Tensorflow
 10. NVIDIA CUDA Toolkit
 
-### ** 10.SQL -**
+### **10.SQL -**
 1. Inner Join
 2. Left Outer Join
 3. Right Outer Join
@@ -97,3 +97,15 @@
 6. Right Join Excluding Inner Join
 7. Full Outer Excluding Inner Join
 8. Cross Join
+
+### **11.Linear Regression using Keras -**
+1. Import Libraries
+2. Load the Dataset
+3. Extract Features from the Dataset
+4. Plot the Features
+5. Define Keras Model
+6. Compile the Model
+7. Train the Model
+8. Plot Training Results
+9. Make Prediction using the model
+10. Plot the model and Data
